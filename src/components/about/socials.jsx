@@ -67,7 +67,7 @@ const Socials = () => {
 							className="social-icon"
 						/>
 					</div>
-					<div className="social-text">Follow on Instagram</div>
+					<div className="social-text">Follow on Telegram</div>
 				</a>
 			</div>
 
