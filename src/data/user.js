@@ -11,6 +11,7 @@ const INFO = {
 		github: "https://github.com/azam-amonov",
 		linkedin: "https://www.linkedin.com/in/azam-amonov/",
 		telegram: "https://t.me/azam_amonov",
+		telegramChen: "https://t.me/amonov_blog"
 	},
 
 	homepage: {
