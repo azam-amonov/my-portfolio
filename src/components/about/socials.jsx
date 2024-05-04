@@ -63,7 +63,7 @@ const Socials = () => {
 				>
 					<div className="social-icon">
 						<FontAwesomeIcon
-							icon={faInstagram}
+							icon={faTelegram}
 							className="social-icon"
 						/>
 					</div>
