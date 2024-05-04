@@ -115,6 +115,16 @@ const Homepage = () => {
 
 						<div className="homepage-socials">
 							<a
+								herf={INFO.socials.linkedin}
+								target="_blank"
+								rel="noreferrer"
+							>
+								<FontAwesomeIcon
+									icon={faLinkedin}
+									className="homepage-social-icon"
+								/>
+							</a>
+							<a
 								href={INFO.socials.twitter}
 								target="_blank"
 								rel="noreferrer"
