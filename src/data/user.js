@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "C#/.NET Core Developer with big dreams and ambitions.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"While I may be new to the programming world, I've already gained valuable experience working on team projects. I bring a positive and collaborative spirit to the table, making friends and building connections quickly. My passion for learning is constant, even if laziness tries to tempt me sometimes. I enjoy keeping things lighthearted with humor, but always maintain professionalism. I firmly believe that learning has no age limit, and I'm constantly seeking new knowledge to expand my skillset.",
 	},
 
 	about: {
